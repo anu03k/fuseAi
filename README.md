@@ -79,4 +79,5 @@ distortion_keywords = {
 
 You can add or update the keywords for each distortion category to improve or customize detection.
 
-
+Link :
+https://drive.google.com/file/d/10XKOIqjM073KNxJ0MdphsETSGLcXHB2P/view?usp=sharing
